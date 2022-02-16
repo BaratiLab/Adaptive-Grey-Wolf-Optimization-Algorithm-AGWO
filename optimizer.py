@@ -2,7 +2,6 @@
 
 import Optimizers.GWO as gwo
 import Optimizers.AGWO as agwo
-# import RANDOM_BANDIT as random_bandit  
 import functions as benchmarks 
 import csv
 import numpy as np 
