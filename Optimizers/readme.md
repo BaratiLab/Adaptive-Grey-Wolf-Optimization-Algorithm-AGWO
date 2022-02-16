@@ -1,1 +1,0 @@
-GWO and AGWO codes
